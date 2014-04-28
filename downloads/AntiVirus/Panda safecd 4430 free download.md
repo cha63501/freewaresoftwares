@@ -1,0 +1,60 @@
+# Download: Panda SafeCD 4.4.3.0
+
+**Short description: **
+
+## Handy tool to clean a malware infested PC.
+
+  
+**Thumbshot: **![](http://www.freewarefiles.com/screenshot/pandasafecd_md.jpg)   
+  
+**Download link:** [Download Panda SafeCD 4.4.3.0](http://freesoftwares.boysofts.com/Panda-SafeCD_program_50716.html)  
+  
+
+**Publisher's Description**  
+  
+
+This useful utility comes in handy when you need to clean a friendA's PC (or
+your own) from a malware infested state. It is specially useful for detecting
+and disinfecting malware infections which give regular AV products running
+within Windows a hard time.
+
+**Features:**
+
+  * Automatic detection and removal of all types of malware. 
+  * Boot from CD or USB stick. 
+  * Supports using updated signature files. 
+  * Supports 13 languages. 
+  * Supports both FAT and NTFS drives. 
+
+The download consists of an ISO. You can either burn this into a CD/DVD or
+alternatively create a more convenient Boot USB stick by using something like
+the **[Universal Netboot Installer
+(UNetbootin)**](http://www.freewarefiles.com/UNetbootin_program_49146.html).
+
+In order to use a more updated signature database, the Panda SafeCD searches
+the registry for installed Panda applications that use the regular pav.sig
+file signature format. If you want Panda SafeCD to use a more updated
+signature file simply make sure there is an installed Panda product (normally
+in C:\Program Files\Panda Security) with an updated pav.sig file. If the Panda
+SafeCD finds a more recent pav.sig than the one included in the ISO, it will
+use the more updated one.
+
+For a more recently updated signature database file **[download
+pav.sig**](http://research.pandasecurity.com/blogs/images/pav.zip) from this
+blog. Remember this signature file is for tests only and updated on a
+"whenever-I-feel-like-it" basis, so it should not be used for production
+systems. For critical situations and to disinfect production systems use our
+regular signature file which gets updated at least once a day.
+
+**What's New in version 4.4.3.0:**
+
+  * New graphical user interface 
+  * Update signature file from Internet, beta sig or from local PC 
+  * Ability to choose individual partitions for scans 
+
+  
+  
+Screenshot: ![](http://www.freewarefiles.com/screenshot/pandasafecd.jpg)  
+**For more freeware softwares visit [Freeware software downloads.](http://freesoftwares.boysofts.com/)**   
+**And [Free softwares and php script downloads.](http://www.boysofts.com/)**
+

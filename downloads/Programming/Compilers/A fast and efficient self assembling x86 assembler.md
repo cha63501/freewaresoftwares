@@ -1,0 +1,30 @@
+# Download: A fast and efficient self-assembling x86 assembler.
+
+**Program name:**
+
+## Flat Assembler 1.69.03
+
+  
+**Thumbshot:** ![](http://www.freewarefiles.com/screenshot/flatassmblr_md.gif)   
+  
+**Download link:** [Download A fast and efficient self-assembling x86 assembler.](http://freesoftwares.boysofts.com/Flat-Assembler_program_51460.html)  
+  
+
+
+**Publisher's Description**  
+  
+
+
+The flat assembler is a fast and efficient self-assembling x86 assembler for DOS, Windows and Linux operating systems. 
+
+Currently it supports all 8086-80486/Pentium instructions with MMX, 3DNow! and SSE up to SSE4 extensions, and x86-64 (both AMD64 and EM64T) instructions, can produce output in binary, MZ, PE, COFF or ELF format.
+
+It includes the powerful but easy to use macroinstruction support and does multiple passes to optimize the instruction codes for size.
+
+The flat assembler is self-compilable and the full source code is included.
+
+  
+  
+Screenshot: ![](http://www.freewarefiles.com/screenshot/flatassmblr.gif)   
+**For more freeware softwares visit [Freeware software downloads.](http://freesoftwares.boysofts.com/)**   
+**And [Free softwares and php script downloads.](http://www.boysofts.com/)**

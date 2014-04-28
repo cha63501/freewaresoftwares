@@ -1,0 +1,28 @@
+# Download: Highlight text and perform several useful functions.
+
+**Program name:**
+
+## WinSorter 1.6.0.7
+
+  
+**Thumbshot:** ![](http://www.freewarefiles.com/screenshot/winsorter_md.jpg)   
+  
+**Download link:** [Download Highlight text and perform several useful functions.](http://freesoftwares.boysofts.com/WinSorter_program_63736.html)  
+  
+
+
+**Publisher's Description**  
+  
+
+
+WinSorter allows users to perform several functions with selected text such as converting the case, sorting, count characters, count lines, count words, and more. 
+
+**WhatA's new in this version 1.6.0.7:**
+
+  * MINOR CHANGE: Altered repeated functions 
+
+  
+  
+Screenshot: ![](http://www.freewarefiles.com/screenshot/winsorter.jpg)   
+**For more freeware softwares visit [Freeware software downloads.](http://freesoftwares.boysofts.com/)**   
+**And [Free softwares and php script downloads.](http://www.boysofts.com/)**

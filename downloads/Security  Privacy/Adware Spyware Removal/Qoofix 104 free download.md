@@ -1,0 +1,26 @@
+# Download: Qoofix 1.04
+
+**Short description: **
+
+## A tool that removes the Qoologic malware from your computer.
+
+  
+**Thumbshot: **![](http://www.freewarefiles.com/screenshot/qoofix_md.gif)   
+  
+**Download link:** [Download Qoofix 1.04](http://freesoftwares.boysofts.com/Qoofix_program_22016.html)  
+  
+
+**Publisher's Description**  
+  
+
+Qoofix is a tool that removes the Qoologic malware from your computer. This is
+a redesign of LonnyA's old Qoofix.bat technique. The new Qoofix uses advanced
+techniques to remove malicious modules that are running. These modules hide
+Qoologic from removal tools.
+
+  
+  
+Screenshot: ![](http://www.freewarefiles.com/screenshot/qoofix.gif)  
+**For more freeware softwares visit [Freeware software downloads.](http://freesoftwares.boysofts.com/)**   
+**And [Free softwares and php script downloads.](http://www.boysofts.com/)**
+

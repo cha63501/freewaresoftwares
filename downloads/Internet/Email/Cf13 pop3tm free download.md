@@ -1,0 +1,32 @@
+# Download: CF13-POP3(TM)
+
+**Short description: **
+
+## POP3 client eliminates your email spam/malware quickly.
+
+  
+**Thumbshot: **![](http://www.freewarefiles.com/screenshot/nopic.gif)   
+  
+**Download link:** [Download CF13-POP3(TM)](http://freesoftwares.boysofts.com/CF-POPTM_program_10490.html)  
+  
+
+**Publisher's Description**  
+  
+
+POP3 client eliminates your email spam/malware quickly.
+
+Features:
+
+  1. It is hostile to spammers and computer crackers. 
+  2. It is simple to use and fast. 
+  3. It is extremely reliable when operating under nominal conditions. 
+Read the press release at:
+
+<http://www.cf13.com/press-release.htm>
+
+  
+  
+Screenshot: ![](http://www.freewarefiles.com/screenshot/nopic.gif)  
+**For more freeware softwares visit [Freeware software downloads.](http://freesoftwares.boysofts.com/)**   
+**And [Free softwares and php script downloads.](http://www.boysofts.com/)**
+
